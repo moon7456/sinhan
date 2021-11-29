@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "124651869393",
+    "project_id": "toss-bc839",
+    "storage_bucket": "toss-bc839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124651869393:android:ce98131ff4cc5f49bf61f0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124651869393-e0vur6i2283sitsrqc6vhgmngh7a7jlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2I4gcahR_InKDc0WO5dglxWVLYh40ZUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124651869393-e0vur6i2283sitsrqc6vhgmngh7a7jlm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124651869393-ltesak1b105pdokk0651ulgikifjuc1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
